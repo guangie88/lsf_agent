@@ -1,0 +1,9 @@
+{
+    "prefix": "",
+
+    "nameMapping": {
+        "hikari": "localhost"
+    },
+
+    "criticalGroupName": "critical"
+}
